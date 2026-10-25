@@ -3,6 +3,7 @@
 *.duckdb.wal
 *.sqlite
 *.db
+dw_marts_duckdb
 
 # 📊 Raw data
 /data/raw/
