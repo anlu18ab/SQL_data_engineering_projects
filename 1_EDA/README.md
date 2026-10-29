@@ -5,7 +5,7 @@ This is a SQL project that analyzes the Scandinavian job market (Sweden, Denmark
 
 ![EDA Project Overview](..//Images/1_1_Project1_EDA.png)
 
-## Executive Summary
+## Executive Summary (for Hiring Managers)
 - **Project scope:** Built **3 analytical queries** that answer insightful questions about the data engineer market in Scandinavia.
 
 - **Data modeling:** Used **multi-table joins** across fact and dimension tables to extract insights.
