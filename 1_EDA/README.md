@@ -7,11 +7,8 @@ This is a SQL project that analyzes the Scandinavian job market (Sweden, Denmark
 
 ## Executive Summary (for Hiring Managers)
 - **Project scope:** Built **3 analytical queries** that answer insightful questions about the data engineer market in Scandinavia.
-
 - **Data modeling:** Used **multi-table joins** across fact and dimension tables to extract insights.
-
 - **Analytics:** Applied **aggregations, filtering, and sorting** to find top skills by demand, salary, and value.
-
 - **Outcomes:** Discovered **actionable insights** on the importance of SQL and Python, cloud preference and salary patterns.
 
 **TL/DR:** 
